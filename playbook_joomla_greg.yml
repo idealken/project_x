@@ -1,0 +1,29 @@
+# playbook_joomla 
+---
+- hosts: all
+  tasks:         
+    - name: Install PHP 
+      yum:
+        name:
+          - epel-release
+          - httpd
+          - php
+          - php-common
+          - php-mysqlnd
+          - php-mbstring
+          - php-gd
+          - mod_ssl
+          - wget
+        state: present
+
+    - name: Vive le nigeria
+      yum:
+        name:
+          - mariadb-server
+        state: present
+
+#         name:Install MariaDB
+#          yum:name=mariadb state=running enabled=yes
+#          zip wget unzip 
+#          name:sed -i's/AllowOverride none/AllowOverride all/g' /etc/httpd/ht           tpd.conf 
+#        - name=systemctl start httpd && systemctl start mariadb 

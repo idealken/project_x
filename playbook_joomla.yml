@@ -1,0 +1,24 @@
+# playbook_joomla 
+  ---
+  - hosts: all
+   
+   handlers:
+    - name: configure selinux 
+    - name: setenforce 0,sed -i's/enforcing/disabled/g' /etc/selinux/config
+   tasks:         
+         name:Install PHP 
+          yum:name:{{item}} state=present
+       with_items
+       - epel-release
+       - httpd
+       - php
+       - php-command
+       - php-mysqlnd
+       - php-mbstring
+       - php-gd
+             -  mod_ssl
+         name:Install MariaDB
+          yum:name=mariadb state=running enabled=yes
+          zip wget unzip 
+          name:sed -i's/AllowOverride none/AllowOverride all/g' /etc/httpd/ht           tpd.conf 
+        - name=systemctl start httpd && systemctl start mariadb 
