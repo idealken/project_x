@@ -8,9 +8,9 @@
 # hlsearch on (H) or off (h):
 ~H
 # Historique ligne de commande (chronologie décroissante) :
+:wq
 :q
 :wq!
-:wq
 :w!q
 :q!
 :qw
@@ -47,18 +47,20 @@
 	d
 
 # Marques dans le fichier :
-'0  1  0  ~/myapp
-'1  23  8  ~/playbook_joomla_greg.yml
-'2  15  10  ~/playbook_joomla_greg.yml
-'3  16  15  ~/playbook_joomla_greg.yml
-'4  24  0  ~/playbook_joomla_greg.yml
-'5  11  21  ~/playbook_joomla_greg.yml
-'6  2  0  ~/.ssh/known_hosts
-'7  6  9  ~/playbook_joomla_greg.yml
-'8  16  21  ~/playbook_joomla_greg
-'9  8  3  ~/playbook_joomla
+'0  1  13  ~/README.md
+'1  1  0  ~/login
+'2  1  0  ~/myapp
+'3  23  8  ~/playbook_joomla_greg.yml
+'4  15  10  ~/playbook_joomla_greg.yml
+'5  16  15  ~/playbook_joomla_greg.yml
+'6  24  0  ~/playbook_joomla_greg.yml
+'7  11  21  ~/playbook_joomla_greg.yml
+'8  2  0  ~/.ssh/known_hosts
+'9  6  9  ~/playbook_joomla_greg.yml
 
 # Liste de sauts (le plus récent en premier) :
+-'  1  13  ~/README.md
+-'  1  0  ~/login
 -'  1  0  ~/myapp
 -'  23  8  ~/playbook_joomla_greg.yml
 -'  15  10  ~/playbook_joomla_greg.yml
@@ -155,10 +157,17 @@
 -'  55  6  /etc/joomala.yml
 -'  1  0  /etc/joomala.yml
 -'  13  6  /etc/joomala.yml
--'  55  6  /etc/joomala.yml
--'  1  0  /etc/joomala.yml
 
 # Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/README.md
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/login
+	"	1	0
 
 > ~/myapp
 	"	1	0
@@ -429,13 +438,4 @@
 	"	1	0
 
 > /etc/ansible/osts
-	"	1	0
-
-> ~/ansible-joomla/ansible.cfg
-	"	2	4
-	^	2	21
-	.	2	21
-	+	2	21
-
-> /etc/joomla
 	"	1	0
