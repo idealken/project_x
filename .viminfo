@@ -1,0 +1,441 @@
+# Ce fichier viminfo a été généré par Vim 7.4.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Historique ligne de commande (chronologie décroissante) :
+:q
+:wq!
+:wq
+:w!q
+:q!
+:qw
+:za
+
+# Historique chaîne de recherche (chronologie décroissante) :
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Registres :
+""1	LINE	0
+	          - mariadb-client
+"2	LINE	0
+	192.168.122.185 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBE5PvYxJ7LpyWMbUjIogNzdJr2+6Nn3oKKU5t9ujscB2UBpisjeEYWMOh2axTRcsgZtgYh88PHBLphTuB+hl4ow=
+"3	LINE	0
+	    - name: setenforce 0,sed -i's/enforcing/disabled/g' /etc/selinux/config
+"4	LINE	0
+	    - name: configure selinux 
+"5	LINE	0
+	   handlers:
+"6	LINE	0
+	   
+"7	LINE	0
+	[joomla]
+"8	LINE	0
+	centos-clone1
+"9	LINE	0
+	centos-clone2
+"-	CHAR	0
+	d
+
+# Marques dans le fichier :
+'0  1  0  ~/myapp
+'1  23  8  ~/playbook_joomla_greg.yml
+'2  15  10  ~/playbook_joomla_greg.yml
+'3  16  15  ~/playbook_joomla_greg.yml
+'4  24  0  ~/playbook_joomla_greg.yml
+'5  11  21  ~/playbook_joomla_greg.yml
+'6  2  0  ~/.ssh/known_hosts
+'7  6  9  ~/playbook_joomla_greg.yml
+'8  16  21  ~/playbook_joomla_greg
+'9  8  3  ~/playbook_joomla
+
+# Liste de sauts (le plus récent en premier) :
+-'  1  0  ~/myapp
+-'  23  8  ~/playbook_joomla_greg.yml
+-'  15  10  ~/playbook_joomla_greg.yml
+-'  16  10  ~/playbook_joomla_greg.yml
+-'  24  0  ~/playbook_joomla_greg.yml
+-'  11  10  ~/playbook_joomla_greg.yml
+-'  6  6  ~/playbook_joomla_greg.yml
+-'  2  0  ~/.ssh/known_hosts
+-'  1  0  ~/.ssh/known_hosts
+-'  1  0  ~/playbook_joomla_greg.yml
+-'  16  21  ~/playbook_joomla_greg
+-'  1  0  ~/playbook_joomla_greg
+-'  8  3  ~/playbook_joomla
+-'  3  3  ~/playbook_joomla
+-'  4  2  ~/playbook_joomla
+-'  9  36  ~/playbook-m21
+-'  8  1  ~/playbook-m21
+-'  7  6  ~/playbook-m21
+-'  3  1  ~/playbook-m21
+-'  10  0  ~/playbook-m21
+-'  1  0  ~/playbook-m21
+-'  2  3  ~/playbook_joomla
+-'  5  0  ~/playbook_joomla
+-'  11  7  ~/playbook_joomla
+-'  10  10  ~/playbook_joomla
+-'  9  9  ~/playbook_joomla
+-'  24  8  ~/playbook_joomla
+-'  23  10  ~/playbook_joomla
+-'  22  10  ~/playbook_joomla
+-'  20  9  ~/playbook_joomla
+-'  19  15  ~/playbook_joomla
+-'  21  10  ~/playbook_joomla
+-'  7  4  ~/playbook_joomla
+-'  1  0  /etc/hosts
+-'  12  0  /etc/ansible/hosts
+-'  47  0  /etc/ansible/hosts
+-'  2  0  /etc/hosts
+-'  1  0  /etc/ansible/ansible-joomla/hosts
+-'  1  0  /etc/ansible/ansible.cfg
+-'  1  0  /etc/ansible-joomla
+-'  1  0  /etc/ansible
+-'  1  0  /etc/ansible/ansible-joomla/hosts_vars
+-'  1  0  /etc/ansible/hosts_var
+-'  1  0  /etc/ansible/playbook_joomla/hosts
+-'  1  0  /etc/webtest
+-'  1  0  /home/playbook_joomla
+-'  1  0  ~/ansible-joomla/playbook_joomla
+-'  1  0  /etc/ansible/osts
+-'  2  4  ~/ansible-joomla/ansible.cfg
+-'  1  0  ~/playbook_joomla
+-'  1  0  /etc/joomla
+-'  1  0  ~/joomla.yml
+-'  1  0  ~/hosts
+-'  1  0  /ansible.cfg
+-'  1  0  ~/ansible.cfg
+-'  5  7  /etc/webtest
+-'  1  11  ~/ansible-joomla/hosts
+-'  1  0  ~/ansible-joomla/ansible.cfg
+-'  6  13  /etc/webtest
+-'  10  11  /etc/webtest
+-'  3  6  /etc/webtest
+-'  8  6  /etc/webtest
+-'  31  11  /etc/webtest
+-'  1  14  /etc/playbook-joomla
+-'  3  12  /etc/joomla.yml
+-'  11  6  /etc/joomla.yml
+-'  1  0  /etc/ansiblejoomla.yaml
+-'  7  7  /etc/joomla.yml
+-'  1  0  /etc/joomla.yaml
+-'  1  0  /etc/host
+-'  1  0  ~/clear
+-'  1  0  /etc/joomla.yml
+-'  13  6  /etc/joomala.yml
+-'  55  6  /etc/joomala.yml
+-'  1  0  /etc/joomala.yml
+-'  1  0  /etc/ansible/hosts
+-'  13  6  /etc/joomala.yml
+-'  55  6  /etc/joomala.yml
+-'  1  0  /etc/joomala.yml
+-'  48  0  /etc/ansible/hosts
+-'  13  6  /etc/joomala.yml
+-'  55  6  /etc/joomala.yml
+-'  1  0  /etc/joomala.yml
+-'  13  6  /etc/joomala.yml
+-'  55  6  /etc/joomala.yml
+-'  1  0  /etc/joomala.yml
+-'  13  6  /etc/joomala.yml
+-'  55  6  /etc/joomala.yml
+-'  1  0  /etc/joomala.yml
+-'  13  6  /etc/joomala.yml
+-'  55  6  /etc/joomala.yml
+-'  1  0  /etc/joomala.yml
+-'  13  6  /etc/joomala.yml
+-'  55  6  /etc/joomala.yml
+-'  1  0  /etc/joomala.yml
+-'  13  6  /etc/joomala.yml
+-'  55  6  /etc/joomala.yml
+-'  1  0  /etc/joomala.yml
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/myapp
+	"	1	0
+
+> ~/playbook_joomla_greg.yml
+	"	23	8
+	^	23	22
+	.	23	0
+	+	5	11
+	+	11	21
+	+	16	15
+	+	19	27
+	+	23	0
+
+> ~/.ssh/known_hosts
+	"	2	0
+	.	2	0
+	+	2	0
+
+> ~/playbook_joomla_greg
+	"	16	21
+	^	16	22
+	.	16	21
+	+	2	0
+	+	3	0
+	+	4	2
+	+	5	3
+	+	6	4
+	+	5	5
+	+	6	10
+	+	7	13
+	+	7	13
+	+	8	9
+	+	9	9
+	+	10	9
+	+	11	9
+	+	12	9
+	+	13	9
+	+	14	9
+	+	15	10
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	17	0
+	+	15	12
+	+	16	21
+
+> ~/playbook_joomla
+	"	8	3
+	^	8	2
+	.	3	2
+	+	21	6
+	+	20	6
+	+	21	10
+	+	5	6
+	+	22	6
+	+	22	34
+	+	22	28
+	+	22	37
+	+	22	26
+	+	23	91
+	+	22	20
+	+	23	90
+	+	22	21
+	+	23	91
+	+	22	33
+	+	22	106
+	+	22	64
+	+	22	34
+	+	22	30
+	+	22	19
+	+	22	28
+	+	22	20
+	+	22	111
+	+	22	21
+	+	22	33
+	+	22	3
+	+	22	110
+	+	22	33
+	+	22	105
+	+	22	26
+	+	22	20
+	+	23	90
+	+	22	21
+	+	23	91
+	+	22	26
+	+	22	22
+	+	22	5
+	+	22	99
+	+	22	100
+	+	22	27
+	+	23	84
+	+	22	25
+	+	23	6
+	+	22	20
+	+	23	4
+	+	22	7
+	+	24	60
+	+	24	0
+	+	20	18
+	+	8	27
+	+	20	11
+	+	21	10
+	+	20	11
+	+	23	82
+	+	20	11
+	+	23	11
+	+	20	4
+	+	21	10
+	+	20	11
+	+	8	14
+	+	10	10
+	+	9	6
+	+	10	6
+	+	11	8
+	+	10	9
+	+	20	8
+	+	21	14
+	+	19	13
+	+	20	14
+	+	22	9
+	+	23	87
+	+	24	8
+	+	8	43
+	+	8	40
+	+	8	35
+	+	8	31
+	+	8	16
+	+	9	14
+	+	10	19
+	+	11	8
+	+	8	17
+	+	8	17
+	+	9	0
+	+	11	7
+	+	2	11
+	+	5	1
+	+	2	3
+	+	5	10
+	+	2	12
+	+	5	0
+	+	2	3
+	+	2	0
+	+	3	1
+	+	5	1
+	+	3	13
+	+	4	3
+	+	3	2
+	+	2	1
+	+	8	2
+	+	3	2
+
+> ~/playbook-m21
+	"	9	36
+	^	9	37
+	.	9	36
+	+	9	384
+	+	3	1
+	+	7	11
+	+	8	0
+	+	9	36
+
+> /etc/hosts
+	"	1	0
+	^	1	18
+	.	1	17
+	+	1	32
+	+	1	12
+	+	1	6
+	+	1	8
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	24
+	+	2	30
+	+	1	30
+	+	2	37
+	+	1	29
+	+	2	18
+	+	1	17
+	q	1	0
+
+> /etc/ansible/hosts
+	"	12	0
+	^	12	0
+	.	12	0
+	+	47	97
+	+	47	31
+	+	47	31
+	+	47	38
+	+	47	39
+	+	47	68
+	+	47	39
+	+	47	39
+	+	47	40
+	+	47	98
+	+	47	69
+	+	47	84
+	+	47	55
+	+	13	29
+	+	48	0
+	+	13	0
+	+	12	0
+
+> /etc/ansible/ansible-joomla/hosts
+	"	1	0
+
+> /etc/ansible/ansible.cfg
+	"	1	0
+	^	1	0
+
+> /etc/ansible-joomla
+	"	1	0
+	^	1	0
+
+> /etc/ansible/ansible-joomla/hosts_vars
+	"	1	0
+
+> /etc/ansible/hosts_var
+	"	1	0
+
+> /etc/ansible/playbook_joomla/hosts
+	"	1	0
+
+> /etc/webtest
+	"	1	0
+	^	1	0
+	.	5	44
+	+	6	38
+	+	7	25
+	+	8	3
+	+	2	2
+	+	12	57
+	+	14	123
+	+	14	23
+	+	19	14
+	+	18	15
+	+	17	15
+	+	21	15
+	+	20	15
+	+	27	21
+	+	13	29
+	+	30	61
+	+	31	65
+	+	3	6
+	+	8	7
+	+	3	4
+	+	8	5
+	+	3	33
+	+	2	1
+	+	3	6
+	+	3	6
+	+	6	0
+	+	4	0
+	+	5	8
+	+	9	10
+	+	10	9
+	+	5	43
+	+	6	12
+	+	5	44
+
+> /home/playbook_joomla
+	"	1	0
+
+> ~/ansible-joomla/playbook_joomla
+	"	1	0
+
+> /etc/ansible/osts
+	"	1	0
+
+> ~/ansible-joomla/ansible.cfg
+	"	2	4
+	^	2	21
+	.	2	21
+	+	2	21
+
+> /etc/joomla
+	"	1	0
